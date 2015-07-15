@@ -5,7 +5,7 @@
 "title" : "How to Test an AngularJS Directive",
 "description": "Learn how AngularJS makes testing a cinch removing all excuses to not use tests in your application!",
 "freshnessDate" : 2013-04-26,
-"canonicalSourceX" : "http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/",
+"canonicalSource" : "http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/",
 "license" : "All Rights Reserved"
 }
 -->
